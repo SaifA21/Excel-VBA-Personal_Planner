@@ -1,6 +1,6 @@
 # MSCI100-TERM-PROJECT
 After download: 
-- enable editing, 
+- enable editing 
 - save file 
 - exit Excel
 - reopen file
